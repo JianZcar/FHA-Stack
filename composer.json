@@ -1,0 +1,13 @@
+{
+    "name": "vendor/fha",
+    "description": "A minimalistic php stack",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Fha\\": "src/"
+        }
+    },
+    "require": {
+        "flightphp/core": "^3.15"
+    }
+}
